@@ -1,7 +1,7 @@
 <h2 align="center">Hello! 👋, I'm <span style="color:#FF6347;">Shubham Khangar</span></h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF6347&center=true&vCenter=true&width=435&lines=Akhiesh+Negi;Full+Stack+Web+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF6347&center=true&vCenter=true&width=435&lines=Shubham+Khangar;Full+Stack+Web+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -70,11 +70,11 @@ With 1200+ hours of experience, I specialize in crafting dynamic, user-friendly 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhil97Negi&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamKhangar089&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil97Negi&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamKhangar089&theme=radical" alt="GitHub Streak"/>
 </p>
 
 
