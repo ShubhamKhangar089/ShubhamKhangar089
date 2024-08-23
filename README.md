@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:shubhamkhangar45@gmail.com">📧 shubhamkhangar45@gmail.com</a> |
-  📱 +9627278767
+  📱 +91 9921857946
 </p>
 
 ---
